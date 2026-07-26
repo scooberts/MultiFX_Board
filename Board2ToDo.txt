@@ -1,0 +1,22 @@
+Thickness of top surface: 2.25mm
+Total clearance for height of top switch: 10mm
+Thickness of board: 1.6mm
+Distance from underside board surface to center of jack hole: 6.86mm
+
+total: 20.53
+
+DC jack from board surface to +11mm, plus offset of 0.25mm for 0.5mm overall width/height of hole margin
+
+
+
+
+Things to fix from Board 1:
+
+DC Jack Pinout
+RPP PMOS Pinout
+OLED Module pins orientation (swapped/rotated 180)
+Make stomp switch/LED interfacing PTH bigger (currently not big enough for stranded wire)
+Make SPDT switch footprint PTH slightly bigger (very tight dry fit currently)
+
+Try to make board fit into enclosure without cutting out jack holes?
+Try to position 5V regulator better with consideration to cooling and physical fit

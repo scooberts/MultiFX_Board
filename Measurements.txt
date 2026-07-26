@@ -1,0 +1,8 @@
+Thickness of top surface: 2.25mm
+Total clearance for height of top switch: 10mm
+Thickness of board: 1.6mm
+Distance from underside board surface to center of jack hole: 6.86mm
+
+total: 20.53
+
+DC jack from board surface to +11mm, plus offset of 0.25mm for 0.5mm overall width/height of hole margin
